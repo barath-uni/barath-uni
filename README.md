@@ -9,7 +9,7 @@
 
 - 📝 I regularly write articles on [https://www.androidmonks.com/](https://www.androidmonks.com/)
 
-- 💬 Ask me about **React, Python, NodeJS**
+- 💬 Ask me about **React, Python, NodeJS, Pytorch**
 
 - 📫 How to reach me **baradwaj.varadharajan@gmail.com**
 
