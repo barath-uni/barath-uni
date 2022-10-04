@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=barath-uni&label=Profile%20views&color=0e75b6&style=flat" alt="barath-uni" /> </p>
 
-- 🔭 I’m currently working on **A private repo to scale blogs for free**
+- 🔭 I’m currently working on **A SaaS project using GPT3**
 
 - 🌱 I’m currently learning **Dense Retrieval, Linked Data, Kubernetes, SSR**
 
