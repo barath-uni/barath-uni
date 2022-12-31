@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Baradwaj Varadharajan</h1>
-<h3 align="center">Programming Nomad(LITERALLY)</h3>
+<h3 align="center">Programming Nomad</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=barath-uni&label=Profile%20views&color=0e75b6&style=flat" alt="barath-uni" /> </p>
 
@@ -10,7 +10,7 @@
 - 📝 I regularly write articles on [https://www.androidmonks.com/](https://www.androidmonks.com/)
 
 - 💬 Ask me about **React, Python, NodeJS, Pytorch**
-
+- 
 - 📫 How to reach me **baradwaj.varadharajan@gmail.com**
 
 - ⚡ Fun fact **I think I am a time traveller**
