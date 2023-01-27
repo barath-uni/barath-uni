@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **Dense Retrieval, Linked Data, Kubernetes, SSR**
 
-- 📝 I regularly write articles on [https://www.androidmonks.com/](https://www.androidmonks.com/)
+- 📝 I regularly write articles on [https://coffeebeango.substack.com/](https://coffeebeango.substack.com/)
 
 - 💬 Ask me about **React, Python, NodeJS, Pytorch**
 - 
