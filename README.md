@@ -10,7 +10,7 @@
 - 📝 I regularly write articles on [https://coffeebeango.substack.com/](https://coffeebeango.substack.com/)
 
 - 💬 Ask me about **React, Python, NodeJS, Pytorch**
-- 
+
 - 📫 How to reach me **baradwaj.varadharajan@gmail.com**
 
 - ⚡ Fun fact **I think I am a time traveller**
