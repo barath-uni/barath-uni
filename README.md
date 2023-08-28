@@ -3,9 +3,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=barath-uni&label=Profile%20views&color=0e75b6&style=flat" alt="barath-uni" /> </p>
 
-- 🔭 I’m currently working on **Dirt Cheap & Slow running LLM for generating text**
+- 🔭 I’m currently working on **LLM for visualization of data.**
 
-- 🌱 I’m currently learning **Dense Retrieval, Linked Data, Kubernetes, SSR**
+- 🌱 I’m currently learning **Dense Retrieval, Linked Data**
 
 - 📝 I regularly write articles on [https://coffeebeango.substack.com/](https://coffeebeango.substack.com/)
 
@@ -13,7 +13,7 @@
 
 - 📫 How to reach me **baradwaj.varadharajan@gmail.com**
 
-- ⚡ Fun fact **I think I am a time traveller**
+- ⚡ Fun fact **I have over 62 failed private repositories right here!**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
