@@ -9,7 +9,7 @@
 
 - 📝 I regularly write articles on [https://coffeebeango.substack.com/](https://coffeebeango.substack.com/)
 
-- 💬 Ask me about **React, Python, NodeJS, Pytorch**
+- 💬 Ask me about **LLM, SEO, Data Optimization**
 
 - 📫 How to reach me **baradwaj.varadharajan@gmail.com**
 
