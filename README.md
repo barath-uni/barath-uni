@@ -18,7 +18,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/baradwaj-varadharajan-0a0a45a6/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/baradwaj-varadharajan-0a0a45a6/" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/cooode" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="cooode" height="30" width="40" /></a>
+<a href="https://www.youtube.com/@cooode3974" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="cooode" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
