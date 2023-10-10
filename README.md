@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **Dense Retrieval, Linked Data**
 
-- 📝 I regularly write articles on [https://coffeebeango.substack.com/](https://shiny-buttercream-87d10c.netlify.app/postspage/)
+- 📝 I regularly write articles on [AndroidMonks](https://shiny-buttercream-87d10c.netlify.app/postspage/)
 
 - 💬 Ask me about **LLM, SEO, Data Optimization**
 
