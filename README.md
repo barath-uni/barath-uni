@@ -13,7 +13,7 @@
 
 - 📫 How to reach me **baradwaj.varadharajan@gmail.com**
 
-- ⚡ Fun fact **I have over 62 failed private repositories right here!**
+- ⚡ Fun fact **The earth is round**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
