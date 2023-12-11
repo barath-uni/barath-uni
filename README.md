@@ -7,11 +7,11 @@
 
 - 🌱 I’m currently learning **Dense Retrieval, Linked Data**
 
-- 📝 I regularly write articles on [AndroidMonks](https://shiny-buttercream-87d10c.netlify.app/postspage/)
+- 📝 I regularly write articles on [ScoopStats](https://scoopstats.com/)
 
 - 💬 Ask me about **LLM, SEO, Data Optimization**
 
-- 📫 How to reach me **baradwaj.varadharajan@gmail.com**
+- 📫 How to reach me **baradwajvaradharajan04@gmail.com**
 
 - ⚡ Fun fact **The earth is round**
 
